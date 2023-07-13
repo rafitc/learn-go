@@ -19,3 +19,6 @@ Go learning Roadmap -> https://roadmap.sh/golang
 ## Daily Checkslist
 
 ## Resources
+
+- Full GO course -> https://www.youtube.com/watch?v=yyUHQIec83I
+-
