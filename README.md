@@ -6,7 +6,8 @@ Go learning Roadmap -> https://roadmap.sh/golang
 
 ## Todo
 
-- [ ] Setup Dev environment -
+- [x] Setup Dev environment -
+- [x] Hello world
 - [ ] Learn Basic
   - [ ] Baisc Syntax -
   - [ ] Variable and decleration
@@ -21,4 +22,4 @@ Go learning Roadmap -> https://roadmap.sh/golang
 ## Resources
 
 - Full GO course -> https://www.youtube.com/watch?v=yyUHQIec83I
--
+- To fix the gopal err -> https://stackoverflow.com/questions/65748509 vscode-shows-an-error-when-having-multiple-go-projects-in-a-directory
