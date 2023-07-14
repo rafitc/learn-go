@@ -18,7 +18,9 @@ Go learning Roadmap -> https://roadmap.sh/golang
 - [ ] Project 1 -
 
 ## Daily Checkslist
+
 - Dev env Setup #1
+
 ## Resources
 
 - Full GO course -> https://www.youtube.com/watch?v=yyUHQIec83I
